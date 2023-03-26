@@ -1,0 +1,36 @@
+.navigation {
+
+
+   text decoration: none ; 
+}
+h1{
+
+color:brown
+}
+header li {
+    margin: 20px;
+  }
+  a:link{ text decoration: none ; }  
+  .flex-container {
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.item {
+    width: 20%;
+    background: #b4bac0;
+}
+.flex-container {
+    height: 300px;		
+    display: flex;
+    border: 1px solid black;
+    padding: 10px;
+}
+.item {
+    flex: auto;
+    background: #b4bac0;
+    margin: 10px;
+}
+header{height:315px;background-image:url("images/cover.jpg");}
+< img src="1e75970006dff14cb21bd2fd3b8bac7c.jpg" >
